@@ -11,14 +11,17 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 **Database:** Mongo DB
 
+**Websocket:** Socket io
+
 ## Demo
+https://socketchat-vfzo.onrender.com
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone ...
+  git clone https://github.com/0-mayurkaretha/SocketChat.git
 ```
 
 Go to the project directory
@@ -47,7 +50,6 @@ Start the server
 Start the Client
 
 ```bash
-  //open now terminal
   cd frontend
   npm start
 ```
@@ -55,19 +57,19 @@ Start the Client
 # Features
 
 ### Authenticaton
-
-### Real Time Chatting with Typing indicators
+![image](https://github.com/0-mayurkaretha/SocketChat/assets/103996000/656c3d4f-dc0d-4832-abcb-74385f8a620e)
 
 ### One to One chat
+![image](https://github.com/0-mayurkaretha/SocketChat/assets/103996000/ae9dee4b-d9f1-43f5-bc64-3b0c52fc0e28)
 
 ### Search Users
+![image](https://github.com/0-mayurkaretha/SocketChat/assets/103996000/b520c01f-ae78-40bf-b027-b653ae5ade52)
 
 ### Create Group Chats
+![image](https://github.com/0-mayurkaretha/SocketChat/assets/103996000/77f7e66b-e080-4539-bd72-d48bd41eb41a)
 
 ### Notifications
+![image](https://github.com/0-mayurkaretha/SocketChat/assets/103996000/17ab4688-74db-44d4-849c-8deb94ed5c4d)
 
 ### Add or Remove users from group
-
-### View Other user Profile
-
-## Made By
+![image](https://github.com/0-mayurkaretha/SocketChat/assets/103996000/f5a1011e-495f-44ec-a86e-cdcb5cab483b)
