@@ -53,7 +53,7 @@ const server = app.listen(
 const io = require("socket.io")(server, {
   pingTimeout: 60000,
   cors: {
-    origin: "https://socketchat-vfzo.onrender.com",
+    origin: "https://socketchat-y5pd.onrender.com",
     // credentials: true,
   },
 });
